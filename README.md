@@ -45,7 +45,8 @@ A backend API built using **Node.js** and **Express** that supports **user authe
 ├── .gitignore
 ├── app.js
 ├── package.json
-└── package-lock.json
+├── package-lock.json
+└── README.md
 
 
 ---
